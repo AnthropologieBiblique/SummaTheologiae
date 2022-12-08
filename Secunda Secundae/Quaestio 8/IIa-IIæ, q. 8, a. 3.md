@@ -14,8 +14,8 @@ Praeterea, intellectus qui est donum est dignius aliquid quam intellectus qui es
 ###### arg. 3
 Praeterea, donum intellectus illustrat mentem ad ea quae naturalem rationem excedunt. Sed operabilia humana, quorum est practicus intellectus, non excedunt naturalem rationem, quae dirigit in rebus agendis, ut ex supradictis patet. Ergo intellectus qui est donum non est intellectus practicus.
 
-###### s.c.
-Sed contra est quod dicitur in Psalm., *intellectus bonus omnibus facientibus eum*.
+###### s. c.
+Sed contra est quod dicitur in [[Ps 111#10|Psalm.]], *intellectus bonus omnibus facientibus eum*.
 
 ###### resp.
 Respondeo dicendum quod, sicut dictum est, donum intellectus non solum se habet ad ea quae primo et principaliter cadunt sub fide, sed etiam ad omnia quae ad fidem ordinantur. Operationes autem bonae quendam ordinem ad fidem habent, nam fides per dilectionem operatur, ut apostolus dicit, ad [[Ga 5]]. Et ideo donum intellectus etiam ad quaedam operabilia se extendit, non quidem ut circa ea principaliter versetur; sed inquantum in agendis regulamur *rationibus aeternis, quibus conspiciendis et consulendis*, secundum Augustinum, XII de Trin., inhaeret superior ratio, quae dono intellectus perficitur.
