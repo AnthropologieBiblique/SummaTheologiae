@@ -14,7 +14,7 @@ Praeterea, omne quod intelligitur intellectu videtur. Sed fides est de non appar
 ###### arg. 3
 Praeterea, intellectus est certior quam scientia. Sed scientia et fides non possunt esse de eodem, ut supra habitum est. Multo ergo minus intellectus et fides.
 
-###### s. c.
+###### s.c.
 Sed contra est quod Gregorius dicit, in libro Moral., quod *intellectus de auditis mentem illustrat*. Sed aliquis habens fidem potest esse illustratus mente circa audita, unde dicitur [[Lc 24#45|Luc. ult.]] quod *dominus aperuit discipulis suis sensum ut intelligerent Scripturas*. Ergo intellectus potest simul esse cum fide.
 
 ###### resp.

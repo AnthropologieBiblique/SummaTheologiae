@@ -14,7 +14,7 @@ Praeterea, [[Dn 10]] dicitur quod intelligentia opus est in visione prophetica, 
 ###### arg. 3
 Praeterea, donum intellectus respondet virtuti fidei, secundum illud [[Is 7]], secundum aliam litteram, *nisi credideritis, non intelligetis*. Sed fides potest esse sine gratia gratum faciente. Ergo etiam donum intellectus.
 
-###### s. c.
+###### s.c.
 Sed contra est quod dominus dicit, [[Jn 6]], *omnis qui audivit a patre et didicit, venit ad me*. Sed per intellectum audita addiscimus vel penetramus, ut patet per Gregorium, in I Moral. Ergo quicumque habet intellectus donum venit ad Christum. Quod non est sine gratia gratum faciente. Ergo donum intellectus non est sine gratia gratum faciente.
 
 ###### resp.
