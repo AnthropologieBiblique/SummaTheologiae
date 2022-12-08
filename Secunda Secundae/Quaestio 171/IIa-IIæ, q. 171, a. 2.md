@@ -14,7 +14,6 @@ Praeterea, omnis perfectio animae quae non semper est in actu, est habitus. Sed 
 ###### arg. 3
 Praeterea, prophetia computatur inter gratias gratis datas. Sed gratia est habituale quiddam in anima, ut supra habitum est. Ergo prophetia est habitus.
 
-###### s.c.
 ###### s. c.
 Sed contra, habitus est quo quis agit cum voluerit, ut dicit Commentator, in III de anima. Sed aliquis non potest uti prophetia cum voluerit, sicut patet [[2R 3]], de Eliseo, *quem cum Iosaphat de futuris requireret, et prophetiae spiritus ei deesset, psaltem fecit applicari, ut prophetiae ad hunc spiritus per laudem psalmodiae descenderet, atque eius animum de venturis repleret*, ut Gregorius dicit, super Ezech. Ergo prophetia non est habitus.
 
