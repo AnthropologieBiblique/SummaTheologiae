@@ -5,183 +5,183 @@ tags :
 
 # Tertia Pars
 
-[[IIIa, q. 1]]
+[[LEO IIIa, q. 1]]
 
-[[IIIa, q. 2]]
+[[LEO IIIa, q. 2]]
 
-[[IIIa, q. 3]]
+[[LEO IIIa, q. 3]]
 
-[[IIIa, q. 4]]
+[[LEO IIIa, q. 4]]
 
-[[IIIa, q. 5]]
+[[LEO IIIa, q. 5]]
 
-[[IIIa, q. 6]]
+[[LEO IIIa, q. 6]]
 
-[[IIIa, q. 7]]
+[[LEO IIIa, q. 7]]
 
-[[IIIa, q. 8]]
+[[LEO IIIa, q. 8]]
 
-[[IIIa, q. 9]]
+[[LEO IIIa, q. 9]]
 
-[[IIIa, q. 10]]
+[[LEO IIIa, q. 10]]
 
-[[IIIa, q. 11]]
+[[LEO IIIa, q. 11]]
 
-[[IIIa, q. 12]]
+[[LEO IIIa, q. 12]]
 
-[[IIIa, q. 13]]
+[[LEO IIIa, q. 13]]
 
-[[IIIa, q. 14]]
+[[LEO IIIa, q. 14]]
 
-[[IIIa, q. 15]]
+[[LEO IIIa, q. 15]]
 
-[[IIIa, q. 16]]
+[[LEO IIIa, q. 16]]
 
-[[IIIa, q. 17]]
+[[LEO IIIa, q. 17]]
 
-[[IIIa, q. 18]]
+[[LEO IIIa, q. 18]]
 
-[[IIIa, q. 19]]
+[[LEO IIIa, q. 19]]
 
-[[IIIa, q. 20]]
+[[LEO IIIa, q. 20]]
 
-[[IIIa, q. 21]]
+[[LEO IIIa, q. 21]]
 
-[[IIIa, q. 22]]
+[[LEO IIIa, q. 22]]
 
-[[IIIa, q. 23]]
+[[LEO IIIa, q. 23]]
 
-[[IIIa, q. 24]]
+[[LEO IIIa, q. 24]]
 
-[[IIIa, q. 25]]
+[[LEO IIIa, q. 25]]
 
-[[IIIa, q. 26]]
+[[LEO IIIa, q. 26]]
 
-[[IIIa, q. 27]]
+[[LEO IIIa, q. 27]]
 
-[[IIIa, q. 28]]
+[[LEO IIIa, q. 28]]
 
-[[IIIa, q. 29]]
+[[LEO IIIa, q. 29]]
 
-[[IIIa, q. 30]]
+[[LEO IIIa, q. 30]]
 
-[[IIIa, q. 31]]
+[[LEO IIIa, q. 31]]
 
-[[IIIa, q. 32]]
+[[LEO IIIa, q. 32]]
 
-[[IIIa, q. 33]]
+[[LEO IIIa, q. 33]]
 
-[[IIIa, q. 34]]
+[[LEO IIIa, q. 34]]
 
-[[IIIa, q. 35]]
+[[LEO IIIa, q. 35]]
 
-[[IIIa, q. 36]]
+[[LEO IIIa, q. 36]]
 
-[[IIIa, q. 37]]
+[[LEO IIIa, q. 37]]
 
-[[IIIa, q. 38]]
+[[LEO IIIa, q. 38]]
 
-[[IIIa, q. 39]]
+[[LEO IIIa, q. 39]]
 
-[[IIIa, q. 40]]
+[[LEO IIIa, q. 40]]
 
-[[IIIa, q. 41]]
+[[LEO IIIa, q. 41]]
 
-[[IIIa, q. 42]]
+[[LEO IIIa, q. 42]]
 
-[[IIIa, q. 43]]
+[[LEO IIIa, q. 43]]
 
-[[IIIa, q. 44]]
+[[LEO IIIa, q. 44]]
 
-[[IIIa, q. 45]]
+[[LEO IIIa, q. 45]]
 
-[[IIIa, q. 46]]
+[[LEO IIIa, q. 46]]
 
-[[IIIa, q. 47]]
+[[LEO IIIa, q. 47]]
 
-[[IIIa, q. 48]]
+[[LEO IIIa, q. 48]]
 
-[[IIIa, q. 49]]
+[[LEO IIIa, q. 49]]
 
-[[IIIa, q. 50]]
+[[LEO IIIa, q. 50]]
 
-[[IIIa, q. 51]]
+[[LEO IIIa, q. 51]]
 
-[[IIIa, q. 52]]
+[[LEO IIIa, q. 52]]
 
-[[IIIa, q. 53]]
+[[LEO IIIa, q. 53]]
 
-[[IIIa, q. 54]]
+[[LEO IIIa, q. 54]]
 
-[[IIIa, q. 55]]
+[[LEO IIIa, q. 55]]
 
-[[IIIa, q. 56]]
+[[LEO IIIa, q. 56]]
 
-[[IIIa, q. 57]]
+[[LEO IIIa, q. 57]]
 
-[[IIIa, q. 58]]
+[[LEO IIIa, q. 58]]
 
-[[IIIa, q. 59]]
+[[LEO IIIa, q. 59]]
 
-[[IIIa, q. 60]]
+[[LEO IIIa, q. 60]]
 
-[[IIIa, q. 61]]
+[[LEO IIIa, q. 61]]
 
-[[IIIa, q. 62]]
+[[LEO IIIa, q. 62]]
 
-[[IIIa, q. 63]]
+[[LEO IIIa, q. 63]]
 
-[[IIIa, q. 64]]
+[[LEO IIIa, q. 64]]
 
-[[IIIa, q. 65]]
+[[LEO IIIa, q. 65]]
 
-[[IIIa, q. 66]]
+[[LEO IIIa, q. 66]]
 
-[[IIIa, q. 67]]
+[[LEO IIIa, q. 67]]
 
-[[IIIa, q. 68]]
+[[LEO IIIa, q. 68]]
 
-[[IIIa, q. 69]]
+[[LEO IIIa, q. 69]]
 
-[[IIIa, q. 70]]
+[[LEO IIIa, q. 70]]
 
-[[IIIa, q. 71]]
+[[LEO IIIa, q. 71]]
 
-[[IIIa, q. 72]]
+[[LEO IIIa, q. 72]]
 
-[[IIIa, q. 73]]
+[[LEO IIIa, q. 73]]
 
-[[IIIa, q. 74]]
+[[LEO IIIa, q. 74]]
 
-[[IIIa, q. 75]]
+[[LEO IIIa, q. 75]]
 
-[[IIIa, q. 76]]
+[[LEO IIIa, q. 76]]
 
-[[IIIa, q. 77]]
+[[LEO IIIa, q. 77]]
 
-[[IIIa, q. 78]]
+[[LEO IIIa, q. 78]]
 
-[[IIIa, q. 79]]
+[[LEO IIIa, q. 79]]
 
-[[IIIa, q. 80]]
+[[LEO IIIa, q. 80]]
 
-[[IIIa, q. 81]]
+[[LEO IIIa, q. 81]]
 
-[[IIIa, q. 82]]
+[[LEO IIIa, q. 82]]
 
-[[IIIa, q. 83]]
+[[LEO IIIa, q. 83]]
 
-[[IIIa, q. 84]]
+[[LEO IIIa, q. 84]]
 
-[[IIIa, q. 85]]
+[[LEO IIIa, q. 85]]
 
-[[IIIa, q. 86]]
+[[LEO IIIa, q. 86]]
 
-[[IIIa, q. 87]]
+[[LEO IIIa, q. 87]]
 
-[[IIIa, q. 88]]
+[[LEO IIIa, q. 88]]
 
-[[IIIa, q. 89]]
+[[LEO IIIa, q. 89]]
 
-[[IIIa, q. 90]]
+[[LEO IIIa, q. 90]]
 
