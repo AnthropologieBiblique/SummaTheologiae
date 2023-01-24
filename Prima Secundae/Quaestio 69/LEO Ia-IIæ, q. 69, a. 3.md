@@ -18,9 +18,7 @@ Praeterea, inter dona exequentia in vita activa, timor ponitur ad paupertatem pe
 Praeterea, in sacra Scriptura tanguntur multae aliae beatitudines, sicut [[Jb 5]], dicitur, *beatus homo qui corripitur a domino*; et in [[Ps 1]], *beatus vir qui non abiit in consilio impiorum*; et Proverb. III, *beatus vir qui invenit sapientiam*. Ergo insufficienter beatitudines enumerantur.
 
 ###### s.c.
-Sed contra, videtur quod superflue enumerentur. Sunt enim septem dona spiritus sancti. Beatitudines autem tanguntur octo.
-
-###### s.c.
+Sed contra, videtur quod superflue enumerentur. Sunt enim septem dona spiritus sancti. Beatitudines autem tanguntur octo.  
 Praeterea, [[Lc 6]], ponuntur quatuor tantum beatitudines. Superflue ergo enumerantur septem, vel octo, in Matthaeo.
 
 ###### resp.
